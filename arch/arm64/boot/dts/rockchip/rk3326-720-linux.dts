@@ -16,7 +16,7 @@
 #include "rk3326-linux.dtsi"
 
 / {
-	model = "Anbernic RG351MP";
+	model = "R36Plus";
 	compatible = "rockchip,rk3326-rg351mp-linux", "rockchip,rk3326";
 
 	chosen {
